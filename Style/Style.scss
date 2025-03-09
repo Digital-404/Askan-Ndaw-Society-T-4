@@ -54,7 +54,7 @@ html {
 }
 
 .the_info-2 {
-  left: 5%;
+  left: 2%;
 }
 
 .the_info_active {
@@ -252,6 +252,7 @@ html {
   background-repeat: no-repeat;
   background-size: 100%;
   -webkit-user-select: none;
+  display: none;
 
   &:hover {
     transform: scale(1.1);
